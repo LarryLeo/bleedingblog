@@ -4,6 +4,10 @@ db.json
 *.log
 node_modules/
 public/
+<<<<<<< HEAD
 .deploy*/
 package-lock.json
 /assets
+=======
+.deploy*/
+>>>>>>> 28969dae19128cf66b72c6b776ce5ebd7feb51b6
